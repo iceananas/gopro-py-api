@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
 setup(name='goprocam',
       version='2.0.8',
       description='GoPro WiFi API Wrapper for Python - Compatible with HERO3, HERO3+, HERO4, HERO5, HERO+, HERO6',
-      url='http://github.com/konradit/gopro-py-api',
+      url='http://github.com/iceananas/gopro-py-api',
       long_description=long_description,
       long_description_content_type="text/markdown",
       author='Konrad Iturbe',
-      author_email='mail@chernowii.com',
+      author_email='shiyue.liu@motius.de',
       license='MIT',
       packages=['goprocam'],
       zip_safe=False)
