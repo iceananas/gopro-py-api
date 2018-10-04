@@ -19,16 +19,10 @@ Unofficial GoPro API Library for Python - connect to GoPro cameras via WiFi.
 
 ### Installation
 
-From PyPi:
-
-```
-pip install goprocam
-```
-
 Git (unstable):
 
 ```bash
-git clone http://github.com/konradit/gopro-py-api
+git clone http://github.com/iceananas/gopro-py-api
 cd gopro-py-api
 python setup.py install
 ```
